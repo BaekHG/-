@@ -1,4 +1,4 @@
-# SANTA (System for Analysis of National)
+# SANTA (System for Analysis of National Trekking Accidents)
 -----
  **위치기반 산악사고 위험 예측 시스템**
 ## Screenshots
